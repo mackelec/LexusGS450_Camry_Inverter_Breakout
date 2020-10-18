@@ -22,6 +22,7 @@ The objective is to design the breakout board to replace the Toyota logic board 
 ### Files
 
   *  DXF file is the outline of the Toyota Logic PCB with Connector and mount hole positions.
+  *  PDF datasheets of the 50 way JST and the 8 & 16 way JST connector.
   *  PDF - Schematics.
     
     * Page 1 shows the intellegence we think we know and don't know.
