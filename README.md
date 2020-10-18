@@ -23,6 +23,7 @@ The objective is to design the breakout board to replace the Toyota logic board 
 
   *  DXF file is the outline of the Toyota Logic PCB with Connector and mount hole positions.
   *  PDF - Schematics.
+    
     * Page 1 shows the intellegence we think we know and don't know.
     * Page 2 - Just some experiment of mine.
     * Page 3 - Power supply - keeping it simple, and enables.
