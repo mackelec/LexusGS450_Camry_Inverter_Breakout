@@ -26,7 +26,8 @@ The objective is to design the breakout board to replace the Toyota logic board 
   *  PDF - Schematics.
     
     * Page 1 - The Toyota Driver Interface connectors - shows the intellegence we think we know and don't know.
-    * Page 2 - XP677's Boost Control using Arduino Nano. https://openinverter.org/forum/viewtopic.php?f=14&t=538  and ULN2003 to drive MG1 & MG2 - the order is to suit my requirements.
+    * Page 2 - XP677's Boost Control using Arduino Nano. https://openinverter.org/forum/viewtopic.php?f=14&t=538  
+and ULN2003 to drive MG1 & MG2 - the order is to suit my requirements.
     * Page 3 - Power supply - keeping it simple, and enables.
     
   *  Gerbers are coming.
