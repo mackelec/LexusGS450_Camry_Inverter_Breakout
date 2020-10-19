@@ -25,10 +25,9 @@ The objective is to design the breakout board to replace the Toyota logic board 
   *  PDF datasheets of the 50 way JST and the 8 & 16 way JST connector.
   *  PDF - Schematics.
     
-    * Page 1 shows the intellegence we think we know and don't know.
-    * Page 2 - Just some experiment of mine.
+    * Page 1 - The Toyota Driver Interface connectors - shows the intellegence we think we know and don't know.
+    * Page 2 - XP677's Boost Control using Arduino Nano. https://openinverter.org/forum/viewtopic.php?f=14&t=538  and ULN2003 to drive MG1 & MG2 - the order is to suit my requirements.
     * Page 3 - Power supply - keeping it simple, and enables.
-    * Page 4 - XP677's Boost Control using Arduino Nano. https://openinverter.org/forum/viewtopic.php?f=14&t=538
     
   *  Gerbers are coming.
     
