@@ -15,6 +15,10 @@ The intelligence collected and reverse engineering by many, on  https://openinve
   
 I apologise if I have left you out.
 
+###  I had my PCB made at www.jlcpcb.com  
+
+To get this PCB made at JLCPCB just use the Zipped Gerbers https://github.com/mackelec/LexusGS450_Camry_Inverter_Breakout/blob/main/Gerber_Camry%20Breakout%20Ver%200.zip
+
 ###  Objective
 
 The objective is to design the breakout board to replace the Toyota logic board and allow further experimentation.  All pins have been broken out into easy to use SIL headers.  The use of this PCB can be the basis of Inverters, power supplies etc.
